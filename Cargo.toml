@@ -9,4 +9,4 @@ repository = "https://github.com/jpopesculian/lyon-usvg"
 [dependencies]
 lyon_path = "0.17"
 num-traits = "0.2"
-usvg = "0.16"
+usvg = "0.20"
